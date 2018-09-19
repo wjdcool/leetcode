@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE generatorConfiguration
+        PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN"
+        "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
+
+<generatorConfiguration>
+    <context id="MysqlContext" targetRuntime="MyBatis3Simple" defaultModelType="flat">
+        <property name="javaFileEncoding" value="UTF-8"/>
+        <property name="beginningDelimiter" value="`"/>
+        <property name="endingDelimiter" value="`"/>
+        <plugin type="org.mybatis.generator.plugins.SerializablePlugin" />  
+        <plugin type="tk.mybatis.mapper.generator.MapperPlugin">
+            <property name="mappers" value="com.overall.common.util.BaseMapper"/>
+        </plugin>
+        
+
+        <jdbcConnection driverClass="com.mysql.jdbc.Driver"
+                        connectionURL="jdbc:mysql://172.16.0.206:3306/overall_dev"
+                        userId="root"
+                        password="rd_123456">
+        </jdbcConnection>
+
+        <!-- 对于生成的pojo所在包 -->
+        <javaModelGenerator targetPackage="com.overall.mapper.entity" targetProject="E:\Workspaces\overall-console\src\main\java"/>
+                                                                                                                          
+		<!-- 对于生成的mapper所在目录 -->  
+        <sqlMapGenerator targetPackage="mapper" targetProject="E:\Workspaces\overall-console\src\main\resources"/>
+
+		<!-- 配置mapper对应的java映射 -->
+        <javaClientGenerator targetPackage="com.overall.mapper" targetProject="E:\Workspaces\overall-console\src\main\java"
+                             type="XMLMAPPER"/>
+
+
+        <table tableName="ove_system_parameter">
+            <!--mysql 配置-->
+            <generatedKey column="id" sqlStatement="Mysql" identity="true"/>
+            <!--oracle 配置-->
+            <!--<generatedKey column="id" sqlStatement="select SEQ_{1}.nextval from dual" identity="false" type="pre"/>-->
+		 </table>
+    </context>
+</generatorConfiguration>
