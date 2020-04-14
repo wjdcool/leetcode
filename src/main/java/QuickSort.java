@@ -2,7 +2,7 @@
  * Created by Administrator on 2020/4/13.
  */
 public class QuickSort {
-    static int[] arr = {6, 1, 2, 7, 9, 3, 4, 5, 10, 8};
+    static int[] arr = {6, 1, 2, 7, 9, 3, 4, 5, 11, 8};
 
     public static void main(String[] args) {
         quickSort(0, 9);
