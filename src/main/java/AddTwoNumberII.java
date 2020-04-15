@@ -34,37 +34,37 @@ public class AddTwoNumberII {
             l2 = l2.next;
         }
         int temp = 0;
-        ListNode node;
+
         while (true) {
-            boolean flag1 = stack1.isEmpty();
-            boolean flag2 = stack2.isEmpty();
             Integer a = stack1.isEmpty() ? 0 : stack1.pop();
             Integer b = stack2.isEmpty() ? 0 : stack2.pop();
-            if (flag1 && flag2) {
-                if (temp > 0) {
-                    node = new ListNode(temp);
-                    if (head.next != null) {
-                        next = head.next;
-                        node.next = next;
-                        head.next = node;
-                    } else {
-                        head.next = node;
-                    }
-                }
-                break;
-            } else {
-                node = new ListNode((a + b + temp) % 10);
-                if (head.next != null) {
-                    next = head.next;
-                    node.next = next;
-                    head.next = node;
-                } else {
-                    head.next = node;
-                }
-            }
-            temp = (a + b + temp) / 10;
 
+            ListNode newNode = new ListNode((temp + a + b) % 10);
+            newNode.next = head.next;
+            head.next = newNode;
+            temp = (a + b + temp) / 10;
+            if (temp == 0 && stack1.isEmpty() && stack2.isEmpty()) {
+                break;
+            }
         }
         return head.next;
     }
+    /**
+     * test example
+     * AddTwoNumberII.ListNode n1 = new AddTwoNumberII.ListNode(7);
+     AddTwoNumberII.ListNode n2 = new AddTwoNumberII.ListNode(2);
+     AddTwoNumberII.ListNode n3 = new AddTwoNumberII.ListNode(4);
+     AddTwoNumberII.ListNode n4 = new AddTwoNumberII.ListNode(3);
+
+
+     AddTwoNumberII.ListNode t1 = new AddTwoNumberII.ListNode(5);
+     AddTwoNumberII.ListNode t2 = new AddTwoNumberII.ListNode(6);
+     AddTwoNumberII.ListNode t3 = new AddTwoNumberII.ListNode(4);
+     n1.next =n2;
+     n2.next = n3;
+     n3.next =n4;
+
+     t1.next = t2;
+     t2.next = t3;
+     */
 }
