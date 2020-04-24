@@ -1,9 +1,6 @@
 package 字符串的排序;
 
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 
 /**
  * Created by wjd on 2020/4/22.
@@ -27,10 +24,11 @@ public class Solution {
     char[] c;
     List<String> list = new ArrayList<>();
 
-    public String[] permutation(String s) {
+    public List<String> permutation(String s) {
         c = s.toCharArray();
         seq(0);
-        return list.toArray(new String[list.size()]);
+        Collections.sort(list);
+        return list;
     }
 
     public void seq(int x) {
