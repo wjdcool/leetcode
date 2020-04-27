@@ -1,4 +1,4 @@
-package 二叉树的后续遍历序列;
+package Tree.二叉树的后续遍历序列;
 
 import java.util.Stack;
 

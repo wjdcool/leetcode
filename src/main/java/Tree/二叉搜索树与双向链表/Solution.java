@@ -1,4 +1,4 @@
-package 二叉搜索树与双向链表;
+package Tree.二叉搜索树与双向链表;
 
 /**
  * Created by Administrator on 2020/4/22.

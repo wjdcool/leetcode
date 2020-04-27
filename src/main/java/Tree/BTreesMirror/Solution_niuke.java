@@ -1,4 +1,4 @@
-package easy.BTreesMirror;
+package Tree.BTreesMirror;
 
 /**
  * Created by Administrator on 2020/4/15.

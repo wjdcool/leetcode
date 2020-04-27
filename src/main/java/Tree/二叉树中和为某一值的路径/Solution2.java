@@ -1,4 +1,4 @@
-package 二叉树中和为某一值的路径;
+package Tree.二叉树中和为某一值的路径;
 
 import base.TreeNode;
 
