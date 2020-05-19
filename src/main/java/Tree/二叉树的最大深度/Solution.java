@@ -15,7 +15,7 @@ import base.TreeNode;
  */
 public class Solution {
     /**
-     * Solution solution = new Solution();
+     * LRUCache solution = new LRUCache();
      * TreeNode t1 = new TreeNode(1);
      * TreeNode t2 = new TreeNode(3);
      * TreeNode t3 = new TreeNode(2);
