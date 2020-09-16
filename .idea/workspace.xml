@@ -19,34 +19,70 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a383ad0-4fd1-4ee8-b59f-af231ed29642" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/array/最接近的三数之和/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/number/整数拆分/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/剑指offer/剪绳子/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/剑指offer/剪绳子II/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/单链表反转/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/字符串的排序/Solution20200825.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/爬楼梯/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="5a383ad0-4fd1-4ee8-b59f-af231ed29642" name="Default Changelist" comment="1">
+      <change beforePath="$PROJECT_DIR$/src/main/java/AddTwoNumberII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/AddTwoNumberII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ClockwisePrintMatrix/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/ClockwisePrintMatrix/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/CoinChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CoinChangeDp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/CoinChangeDp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DoubleArrFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/DoubleArrFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JumpFloor2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/JumpFloor2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LRU缓存机制/Cache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/LRU缓存机制/Cache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LRU缓存机制/DoubleList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/LRU缓存机制/DoubleList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LRU缓存机制/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/LRU缓存机制/LRUCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LRU缓存机制/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/LRU缓存机制/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MatrixCoverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/MatrixCoverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MergeInterval/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/MergeInterval/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MergeInterval/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/MergeInterval/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MergeTwoIncrementLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/MergeTwoIncrementLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MergeTwoLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/MergeTwoLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MinNumberOfSpinArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/MinNumberOfSpinArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MinimumWindowSubstring/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/MinimumWindowSubstring/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PermutationSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/PermutationSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RebuildTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/RebuildTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ReverseWordsInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/ReverseWordsInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StackHasMinMethod/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/StackHasMinMethod/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TreesChildTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/TreesChildTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TwoStackAsQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/TwoStackAsQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/不同路径/Dp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/不同路径/Dp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/不同路径/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/不同路径/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/不同路径2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/不同路径2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/丑数/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/丑数/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/删除链表中的重复元素/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/删除链表中的重复元素/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/剑指offer/剪绳子/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/剑指offer/剪绳子14/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/剑指offer/剪绳子II/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/剑指offer/剪绳子14II/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/单链表反转/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/单链表反转/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/单链表反转/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/单链表反转/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/复杂链表的复制/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/复杂链表的复制/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/字符串的排序/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/字符串的排序/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/字符串的排序/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/字符串的排序/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/字符串的排序/Solution20200825.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/字符串的排序/Solution20200825.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/扑克牌中的顺子/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/扑克牌中的顺子/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/把数组排成最小的数/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/把数组排成最小的数/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/排序算法/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/排序算法/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/排序算法/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/排序算法/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/排序算法/QuickSort20200813.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/排序算法/QuickSort20200813.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/搜索插入位置/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/搜索插入位置/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/数组中的逆序对/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/数组中的逆序对/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/数组中长度超过一半的数字/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/数组中长度超过一半的数字/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/数组中长度超过一半的数字/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/数组中长度超过一半的数字/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/整数中1出现的次数/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/整数中1出现的次数/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/最大子序和/Dp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/最大子序和/Dp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/最大子序和/FenZhi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/最大子序和/FenZhi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/最小k个数/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/最小k个数/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/栈的压入弹出序列/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/栈的压入弹出序列/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/爬楼梯/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/爬楼梯/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/爬楼梯/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/爬楼梯/Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/第一次只出现一次的字符/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/第一次只出现一次的字符/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/连续子数组的最大和/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/连续子数组的最大和/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/连续差相同的数字/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/连续差相同的数字/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/零钱兑换/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/零钱兑换/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/青蛙过河/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/old/青蛙过河/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -82,26 +118,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.Solution (3)">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="字符串的排序.Main" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="字符串的排序.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="单链表反转.Solution" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="单链表反转.*" />
+          <option name="PATTERN" value="old.字符串的排序.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +159,37 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="剑指offer.剪绳子II.Solution" />
+      <option name="MAIN_CLASS_NAME" value="剑指offer.剪绳子14II.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="剑指offer.剪绳子II.*" />
+          <option name="PATTERN" value="剑指offer.剪绳子14II.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="剑指offer.剪绳子14.Solution" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="剑指offer.剪绳子14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="old.单链表反转.Solution" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="old.单链表反转.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,9 +206,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Main" />
       </list>
@@ -199,7 +247,27 @@
       <workItem from="1597197988159" duration="881000" />
       <workItem from="1597200067890" duration="4492000" />
       <workItem from="1597227943953" duration="2209000" />
+      <workItem from="1597309887876" duration="2578000" />
+      <workItem from="1597648504154" duration="720000" />
+      <workItem from="1597904837079" duration="2409000" />
+      <workItem from="1597907871657" duration="599000" />
+      <workItem from="1597993854908" duration="1213000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1597310075236</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597310075236</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1">
+      <created>1597905284476</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597905284476</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,64 +285,76 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="121" y="0" key="#Project_Structure" timestamp="1591241274207">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="121" y="0" key="#Project_Structure/0.0.1280.760@0.0.1280.760" timestamp="1591241274207" />
-    <state x="2770" y="288" width="490" height="595" key="#xdebugger.evaluate" timestamp="1597229608251">
+    <state x="2770" y="288" width="490" height="595" key="#xdebugger.evaluate" timestamp="1597311699539">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
-    <state x="2770" y="288" width="490" height="595" key="#xdebugger.evaluate/0.0.1280.760/2560.0.1920.1040@2560.0.1920.1040" timestamp="1597229608251" />
+    <state x="2770" y="288" width="490" height="595" key="#xdebugger.evaluate/0.0.1280.760/2560.0.1920.1040@2560.0.1920.1040" timestamp="1597311699539" />
     <state width="400" height="466" key="DebuggerActiveHint" timestamp="1591935933808">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
     <state width="400" height="466" key="DebuggerActiveHint/0.0.1280.760/2560.0.1920.1040@2560.0.1920.1040" timestamp="1591935933808" />
-    <state width="1877" height="211" key="GridCell.Tab.0.bottom" timestamp="1597230158226">
+    <state width="1878" height="253" key="GridCell.Tab.0.bottom" timestamp="1597316537582">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
     <state width="1238" height="210" key="GridCell.Tab.0.bottom/0.0.1280.760/2560.0.1920.1040@0.0.1280.760" timestamp="1592990621437" />
-    <state width="1877" height="211" key="GridCell.Tab.0.bottom/0.0.1280.760/2560.0.1920.1040@2560.0.1920.1040" timestamp="1597230158226" />
-    <state width="1877" height="211" key="GridCell.Tab.0.center" timestamp="1597230158226">
+    <state width="1878" height="253" key="GridCell.Tab.0.bottom/0.0.1280.760/2560.0.1920.1040@2560.0.1920.1040" timestamp="1597316537582" />
+    <state width="1878" height="253" key="GridCell.Tab.0.center" timestamp="1597316537582">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
     <state width="1238" height="210" key="GridCell.Tab.0.center/0.0.1280.760/2560.0.1920.1040@0.0.1280.760" timestamp="1592990621437" />
-    <state width="1877" height="211" key="GridCell.Tab.0.center/0.0.1280.760/2560.0.1920.1040@2560.0.1920.1040" timestamp="1597230158226" />
-    <state width="1877" height="211" key="GridCell.Tab.0.left" timestamp="1597230158226">
+    <state width="1878" height="253" key="GridCell.Tab.0.center/0.0.1280.760/2560.0.1920.1040@2560.0.1920.1040" timestamp="1597316537582" />
+    <state width="1878" height="253" key="GridCell.Tab.0.left" timestamp="1597316537582">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
     <state width="1238" height="210" key="GridCell.Tab.0.left/0.0.1280.760/2560.0.1920.1040@0.0.1280.760" timestamp="1592990621437" />
-    <state width="1877" height="211" key="GridCell.Tab.0.left/0.0.1280.760/2560.0.1920.1040@2560.0.1920.1040" timestamp="1597230158226" />
-    <state width="1877" height="211" key="GridCell.Tab.0.right" timestamp="1597230158226">
+    <state width="1878" height="253" key="GridCell.Tab.0.left/0.0.1280.760/2560.0.1920.1040@2560.0.1920.1040" timestamp="1597316537582" />
+    <state width="1878" height="253" key="GridCell.Tab.0.right" timestamp="1597316537582">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
     <state width="1238" height="210" key="GridCell.Tab.0.right/0.0.1280.760/2560.0.1920.1040@0.0.1280.760" timestamp="1592990621437" />
-    <state width="1877" height="211" key="GridCell.Tab.0.right/0.0.1280.760/2560.0.1920.1040@2560.0.1920.1040" timestamp="1597230158226" />
-    <state width="1877" height="220" key="GridCell.Tab.1.bottom" timestamp="1597230158226">
+    <state width="1878" height="253" key="GridCell.Tab.0.right/0.0.1280.760/2560.0.1920.1040@2560.0.1920.1040" timestamp="1597316537582" />
+    <state width="1878" height="253" key="GridCell.Tab.1.bottom" timestamp="1597316537582">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
     <state width="1238" height="210" key="GridCell.Tab.1.bottom/0.0.1280.760/2560.0.1920.1040@0.0.1280.760" timestamp="1592990621438" />
-    <state width="1877" height="220" key="GridCell.Tab.1.bottom/0.0.1280.760/2560.0.1920.1040@2560.0.1920.1040" timestamp="1597230158226" />
-    <state width="1877" height="220" key="GridCell.Tab.1.center" timestamp="1597230158226">
+    <state width="1878" height="253" key="GridCell.Tab.1.bottom/0.0.1280.760/2560.0.1920.1040@2560.0.1920.1040" timestamp="1597316537582" />
+    <state width="1878" height="253" key="GridCell.Tab.1.center" timestamp="1597316537582">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
     <state width="1238" height="210" key="GridCell.Tab.1.center/0.0.1280.760/2560.0.1920.1040@0.0.1280.760" timestamp="1592990621437" />
-    <state width="1877" height="220" key="GridCell.Tab.1.center/0.0.1280.760/2560.0.1920.1040@2560.0.1920.1040" timestamp="1597230158226" />
-    <state width="1877" height="220" key="GridCell.Tab.1.left" timestamp="1597230158226">
+    <state width="1878" height="253" key="GridCell.Tab.1.center/0.0.1280.760/2560.0.1920.1040@2560.0.1920.1040" timestamp="1597316537582" />
+    <state width="1878" height="253" key="GridCell.Tab.1.left" timestamp="1597316537582">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
     <state width="1238" height="210" key="GridCell.Tab.1.left/0.0.1280.760/2560.0.1920.1040@0.0.1280.760" timestamp="1592990621437" />
-    <state width="1877" height="220" key="GridCell.Tab.1.left/0.0.1280.760/2560.0.1920.1040@2560.0.1920.1040" timestamp="1597230158226" />
-    <state width="1877" height="220" key="GridCell.Tab.1.right" timestamp="1597230158226">
+    <state width="1878" height="253" key="GridCell.Tab.1.left/0.0.1280.760/2560.0.1920.1040@2560.0.1920.1040" timestamp="1597316537582" />
+    <state width="1878" height="253" key="GridCell.Tab.1.right" timestamp="1597316537582">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
     <state width="1238" height="210" key="GridCell.Tab.1.right/0.0.1280.760/2560.0.1920.1040@0.0.1280.760" timestamp="1592990621437" />
-    <state width="1877" height="220" key="GridCell.Tab.1.right/0.0.1280.760/2560.0.1920.1040@2560.0.1920.1040" timestamp="1597230158226" />
+    <state width="1878" height="253" key="GridCell.Tab.1.right/0.0.1280.760/2560.0.1920.1040@2560.0.1920.1040" timestamp="1597316537582" />
     <state x="3021" y="163" key="SettingsEditor" timestamp="1591935504162">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
     <state x="3021" y="163" key="SettingsEditor/0.0.1280.760/2560.0.1920.1040@2560.0.1920.1040" timestamp="1591935504162" />
     <state x="214" y="-1" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1591286509863" />
+    <state x="3112" y="252" key="Vcs.Push.Dialog.v2" timestamp="1597905285832">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3112" y="252" key="Vcs.Push.Dialog.v2/0.0.1280.760/2560.0.1920.1040@2560.0.1920.1040" timestamp="1597905285832" />
+    <state x="3314" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597310281859">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3314" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.760/2560.0.1920.1040@2560.0.1920.1040" timestamp="1597310281859" />
     <state x="6" y="0" key="new project wizard" timestamp="1592980909091">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
@@ -288,29 +368,19 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/爬楼梯/Solution.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/old/爬楼梯/Solution.java</url>
           <line>9</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/剑指offer/剪绳子II/Solution.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/单链表反转/Solution.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/old/单链表反转/Solution.java</url>
           <line>20</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/剑指offer/剪绳子II/Solution.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/剑指offer/剪绳子II/Solution.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="9" />
+          <url>file://$PROJECT_DIR$/src/main/java/剑指offer/剪绳子14II/Solution.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
